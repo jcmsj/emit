@@ -1,0 +1,25 @@
+{
+  "name": "@jcsj/emit",
+  "version": "0.1.0",
+  "description": "A Type-safe event emitter",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "keywords": [
+    "event emitter"
+  ],
+  "files": [
+    "dist"
+  ],
+  "author": {
+    "email": "sanjuan.jeancarlo@gmail.com",
+    "name": "San Juan, Jean Carlo",
+    "url": "https://github.com/jcmsj/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
