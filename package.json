@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A Type-safe event emitter",
   "main": "src/index.js",
+  "private": false,
   "scripts": {
     "build": "tsc",
     "dev": "tsc -w"
